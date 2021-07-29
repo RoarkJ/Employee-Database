@@ -10,4 +10,4 @@
 
 4.) Imported each CSV file into it's respective SQL table in the database.
 
-5.) Wrote an SQL query script using JOIN with GROUP BY and ORDER BY to test the database and schema I created.
+5.) Wrote an SQL query script using JOIN with GROUP BY and ORDER BY and more to test the database and schema I created.
